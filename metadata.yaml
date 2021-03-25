@@ -1,5 +1,8 @@
 _repo: Practicable-Socialism-New-Series_64825
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64825-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Barnett, Samuel Agustus
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53070'
     url: http://www.gutenberg.org/2009/agents/53070
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64825#Practicable-Socialism-New-Series
 gutenberg_issued: '2021-03-15'
 gutenberg_type: Text
 identifiers:
